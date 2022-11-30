@@ -8,7 +8,7 @@
 
 
 
-N = int(input('Введите число '))
+N = int(input('Введите число --> '))
 
 f = 1
 for i in range(N):
