@@ -1,0 +1,1 @@
+& C:/Users/user/AppData/Local/Programs/Python/Python38/python.exe c:/Users/user/Desktop/Python_homework-main/Python_homework-main/024.py
